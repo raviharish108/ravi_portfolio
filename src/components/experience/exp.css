@@ -1,0 +1,36 @@
+.exp_container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    top:20%;
+   transform: translateY(20%);
+   /* height:100vh; */
+}
+.col_1_container{
+    border-radius: 1%;
+    background-color: #30475E;
+    display: flex;
+    margin:10px;
+}
+.col_1_container_left{
+    background-color: #30475E;
+ 
+}
+.col_1_container_right{
+    background-color: #30475E;
+ 
+}
+
+.vl {
+    border-left: 1px solid red;
+    text-align: center;
+  }
+  .col_1_container_left i{
+    background-color: #30475E;
+  }
+  .col_1_container_right p{
+    background-color: #30475E;
+  } 
+  .col_1_container_right h3{
+    background-color: #30475E;
+  } 

@@ -1,0 +1,122 @@
+.serv_container{
+    /* height:60vh;
+    width:100%; */
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   top:20%;
+   transform: translateY(20%);
+}
+
+.card_container1{
+    /* height:320px;
+    width:300px; */
+   border-radius: 5%;
+   background: #836096;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  color:white;
+  box-shadow: 0px 5px 10px 0px #836096 ;
+}
+@media screen and(max-width:768px){
+    .card_container1{
+
+      /* width:400px; */
+      align-items: center;
+      justify-content: center;
+    }
+}
+.card_container1:hover{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.card_container2{ 
+    /* height:320px;
+    width:300px; */
+   border-radius: 5%;
+    background-color: #EBEF95;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 10px 0px #EBEF95;
+}
+.card_container2:hover{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.card_container3{ 
+    /* height:320px;
+    width:300px; */
+   border-radius: 5%;
+    background-color: #EF9595;
+    margin-right: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0px 5px 10px 0px #EF9595;
+}
+.card_container3:hover{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+.cardss{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.card_img1{
+    height:150px;
+    width:150px;
+    object-fit:fill;
+    background-color: #836096;
+    margin:10px;
+}
+.card_img2{
+    height:150px;
+    width:150px;
+    object-fit:fill;
+    background-color:#EBEF95;
+    margin:10px; 
+}
+.card_img3{
+    height:150px;
+    width:150px;
+    object-fit:fill;
+    background-color:#EF9595;
+    margin:10px;
+}
+.card_container1 h5{
+    background-color: #836096;
+    margin:10px;
+}
+.card_container2 h5{
+    background-color:#EBEF95;
+    margin:10px;
+}
+.card_container3 h5{
+    background-color:#EF9595;
+    margin:10px;
+}
+.card_container1 p{
+    background-color:#836096;
+    margin:10px;
+    text-align:center;
+}
+.card_container2 p{
+    background-color:#EBEF95;
+    margin:10px;
+    text-align: center;
+}
+.card_container3 p{
+    background-color:#EF9595;
+    margin:10px;
+    text-align:center;
+}
+.serv_container p{
+    margin:10 0px;
+    padding:10 0px;
+}
+
+.serv_container p span{
+    color:red;
+}
+

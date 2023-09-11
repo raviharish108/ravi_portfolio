@@ -1,0 +1,389 @@
+.works_container{
+    width:100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    top:30%;
+    transform: translateY(30%);
+    /* height:80vh; */
+}
+@media screen and (max-width:767px){
+    .works_container{
+        /* height:140vh; */
+        top:15%;
+        transform: translateY(15%);
+    }
+}
+.working_card_container1{
+    
+    height:300px;
+    /* width:300px; */
+   border-radius: 5%;
+   background-image:url("https://bolby-react.vercel.app/images/works/1.svg");
+  margin-right: 30px;
+  margin-bottom: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+  .working_card_container1:hover{
+    background: #6c6ce5 ;
+    transition: all .3s ease-in-out;
+  }
+ 
+
+.working_card_container2{
+    height:300px;
+    /* width:300px;*/
+   border-radius: 5%;
+   background-image:url("https://bolby-react.vercel.app/images/works/2.svg");
+  margin-right: 30px;
+  margin-bottom: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.working_card_container2:hover{
+    background:#6c6ce5 ;
+    transition: all .3s ease-in-out;
+}
+.working_card_container3{
+    height:300px;
+    /* width:300px; */
+   border-radius: 5%;
+   background-image:url("https://bolby-react.vercel.app/images/works/3.svg");
+  margin-right: 30px;
+  margin-bottom: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.working_card_container3:hover{
+    background:#6c6ce5 ;
+    transition: all .3s ease-in-out;
+}
+
+.working_card_container4{
+    height:300px;
+    /* width:300px; */
+   border-radius: 5%;
+   background-image:url("https://bolby-react.vercel.app/images/works/4.svg");
+  margin-right: 30px;
+  margin-bottom: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.working_card_container4:hover{
+    background:#6c6ce5 ;
+    transition: all .3s ease-in-out;
+}
+.working_card_container5{
+    height:300px;
+    /* width:300px; */
+   border-radius: 5%;
+   background-image:url("https://bolby-react.vercel.app/images/works/5.svg");
+  margin-right: 30px;
+  margin-bottom: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.working_card_container5:hover{
+    background:#6c6ce5 ;
+    transition: all .3s ease-in-out;
+}
+
+.working_card_container6{
+    height:300px;
+    /* width:300px; */
+   border-radius: 5%;
+   background-image:url("https://bolby-react.vercel.app/images/works/6.svg");
+  margin-right: 30px;
+  margin-bottom: 30px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.working_card_container6:hover{
+    background:#6c6ce5 ;
+    transition: all .3s ease-in-out;
+}
+.working_card_container1 p {
+    display: none;
+  }
+  .working_card_container1:hover p {
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 60%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container1 h3{
+    display: none;
+  }
+  .working_card_container1:hover h3{
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 30%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container1 ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+    background-color: #6c6ce5;
+  
+  }
+  .working_card_container1 ul li{
+    padding: 10px;
+    display: none;
+    background-color: #6c6ce5;
+    margin-bottom: 10px;
+  }
+  .working_card_container1:hover ul li {
+    display: block;
+  }
+  .working_card_container1 .icon{
+   background-color: #6c6ce5;
+  }
+  /* ................................................................ */
+  .working_card_container2 p {
+    display: none;
+  }
+  .working_card_container2:hover p {
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 60%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container2 h3{
+    display: none;
+  }
+  .working_card_container2:hover h3{
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 30%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container2 ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+    background-color: #6c6ce5;
+  
+  }
+  .working_card_container2 ul li{
+    padding: 10px;
+    display: none;
+    background-color: #6c6ce5;
+    margin-bottom: 10px;
+  }
+  .working_card_container2:hover ul li {
+    display: block;
+  }
+  .working_card_container2 .icon{
+   background-color: #6c6ce5;
+  }
+  /* ...................................................... */
+  .working_card_container3 p {
+    display: none;
+  }
+  .working_card_container3:hover p {
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 60%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container3 h3{
+    display: none;
+  }
+  .working_card_container3:hover h3{
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 30%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container3 ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+    background-color: #6c6ce5;
+  
+  }
+  .working_card_container3 ul li{
+    padding: 10px;
+    display: none;
+    background-color: #6c6ce5;
+    margin-bottom: 10px;
+  }
+  .working_card_container3:hover ul li {
+    display: block;
+  }
+  .working_card_container3 .icon{
+   background-color: #6c6ce5;
+  }
+/* ........................................................ */
+.working_card_container4 p {
+    display: none;
+  }
+  .working_card_container4:hover p {
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 60%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container4 h3{
+    display: none;
+  }
+  .working_card_container4:hover h3{
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 30%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container4 ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+    background-color: #6c6ce5;
+  
+  }
+  .working_card_container4 ul li{
+    padding: 10px;
+    display: none;
+    background-color: #6c6ce5;
+    margin-bottom: 10px;
+  }
+  .working_card_container4:hover ul li {
+    display: block;
+  }
+  .working_card_container4 .icon{
+   background-color: #6c6ce5;
+  }
+  /* ............................................... */
+  .working_card_container5 p {
+    display: none;
+  }
+  .working_card_container5:hover p {
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 60%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container5 h3{
+    display: none;
+  }
+  .working_card_container5:hover h3{
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 30%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container5 ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+    background-color: #6c6ce5;
+  
+  }
+  .working_card_container5 ul li{
+    padding: 10px;
+    display: none;
+    background-color: #6c6ce5;
+    margin-bottom: 10px;
+  }
+  .working_card_container5:hover ul li {
+    display: block;
+  }
+  .working_card_container5 .icon{
+   background-color: #6c6ce5;
+  }
+  /* ...................................................................... */
+  .working_card_container6 p {
+    display: none;
+  }
+  .working_card_container6:hover p {
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 60%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container6 h3{
+    display: none;
+  }
+  .working_card_container6:hover h3{
+    display: block;
+    color:white;
+    background:#6c6ce5 ;
+    position:relative;
+     top: 30%;
+     left: 50%;
+    transform: translate(-50%, -50%);
+     padding: 10px;
+  }
+  .working_card_container6 ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+    background-color: #6c6ce5;
+  
+  }
+  .working_card_container6 ul li{
+    padding: 10px;
+    display: none;
+    background-color: #6c6ce5;
+    margin-bottom: 10px;
+  }
+  .working_card_container6:hover ul li {
+    display: block;
+  }
+  .working_card_container6 .icon{
+   background-color: #6c6ce5;
+  }
