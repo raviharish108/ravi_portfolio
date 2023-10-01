@@ -13,7 +13,6 @@ export function Exp(){
                         <div className="col_1_container_right text-start m-2 ">
                         <p className="fw-lighter">2023-present</p>
                         <h3 className="text-bold">Full Stack Development certification program </h3>
-                        <p>Guvi Geeks Networks Pvt Ltd</p>
                         </div>
                        
                         
@@ -53,7 +52,6 @@ export function Exp(){
                         <div className="col_1_container_right text-start m-2 ">
                         <p className="fw-lighter">2023-present</p>
                         <h3>MERN Stack Development Learning  </h3>
-                        <p>Guvi Geek Networks Pvt Ltd.</p>
                         </div>
                        
                         
