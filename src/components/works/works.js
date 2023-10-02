@@ -59,12 +59,12 @@ function Working1() {
   function Working4() {
     return (
       <div className="working_card_container4">
-             <h3 className="fw-bold text-center">shortner</h3>
-           <p>In this Application is useful for shortning</p>
+             <h3 className="fw-bold text-center">Ecommerce App</h3>
+           <p>In this Application is useful for shopping</p>
            <ul>
-                <li ><a href="https://github.com/raviharish108/shortner-front-end" target="_blank"><i class="bi bi-github icon" style={{ fontSize: 25 }}  ></i></a></li>
-                <li ><a href="https://github.com/raviharish108/shortner" target="_blank"><i class="bi bi-github icon" style={{ fontSize: 25 }}></i></a></li>
-                <li ><a href="https://friendly-arithmetic-0ac282.netlify.app/" target="_blank"> <i class="bi bi-door-open icon" style={{ fontSize: 25 }}></i></a></li>
+                <li ><a href="https://github.com/raviharish108/ecommerce_frontend" target="_blank"><i class="bi bi-github icon" style={{ fontSize: 25 }}  ></i></a></li>
+                <li ><a href="https://github.com/raviharish108/commerce" target="_blank"><i class="bi bi-github icon" style={{ fontSize: 25 }}></i></a></li>
+                <li ><a href="https://keen-profiterole-2924f8.netlify.app/" target="_blank"> <i class="bi bi-door-open icon" style={{ fontSize: 25 }}></i></a></li>
             </ul> 
       </div>
     );
