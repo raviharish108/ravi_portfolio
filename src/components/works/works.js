@@ -38,7 +38,7 @@ function Working1() {
            <ul>
            <li ><a href="https://github.com/raviharish108/student-assigning" target="_blank"><i class="bi bi-github icon" style={{ fontSize: 25 }}  ></i></a></li>
                 <li ><a href="https://github.com/raviharish108/school-management" target="_blank"><i class="bi bi-github icon" style={{ fontSize: 25 }}></i></a></li>
-                <li ><a href="" target="_blank"> <i class="bi bi-door-open icon" style={{ fontSize: 25 }}></i></a></li>
+                <li ><a href="https://lively-pudding-8001a2.netlify.app/" target="_blank"> <i class="bi bi-door-open icon" style={{ fontSize: 25 }}></i></a></li>
             </ul>
       </div>
     );
