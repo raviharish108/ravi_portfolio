@@ -14,7 +14,7 @@ export function Home(){
                 <li ><a href="https://www.linkedin.com/in/ravindran-ravi-280a60241/" target="blank"><i class="bi bi-linkedin icon" style={{ fontSize: 25 }}></i></a></li>
                 <li ><a href="https://github.com/raviharish108/" target="blank"><i class="bi bi-bi bi-github icon" style={{ fontSize: 25 }}></i></a></li>
             </ul>
-              <Button variant="danger"><a href="https://drive.google.com/file/d/1Z_oBfAayvD8UD8QacsSDfh5aYKvg2avv/view?usp=sharing" target="blank" className="bg-danger fw-bold">Hire Me</a></Button>
+              <Button variant="danger"><a href="https://drive.google.com/file/d/1ywCU3aD7GBW7_0tYkxLbs89aAsMmRC1b/view?usp=sharing" target="blank" className="bg-danger fw-bold">Hire Me</a></Button>
               
         </div> 
     )
