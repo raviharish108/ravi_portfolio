@@ -25,21 +25,21 @@ export function Contact(){
             <div className="container">
                <div className="row">
                   <div className="col-6">
-                   <input type="text" className="form-control m-2 " id="exampleInputPassword1" placeholder="Your name"/>
+                   <input type="text" className="form-control m-2 " id="name" placeholder="Your name"/>
                   </div>
                   <div className="col-6">
                  
-                   <input type="email" className="form-control m-2" id="exampleInputPassword1" placeholder="Your email address"/>
+                   <input type="email" className="form-control m-2" id="email" placeholder="Your email address"/>
                   </div>
                </div>
                <div className="row">
                   <div className="column">
-                   <input type="password" className="form-control m-2" id="exampleInputPassword1" placeholder="Subject"/>
+                   <input type="password" className="form-control m-2" id="subject" placeholder="Subject"/>
                   </div>
                </div>
                <div className="row">
                    <div className="column">
-                   <input type="" className="form-control m-2" id="exampleInputPassword1" placeholder="Message"/>
+                   <input type="" className="form-control m-2" id="message" placeholder="Message"/>
                    </div>
                </div>
                <div className="row">
