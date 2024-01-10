@@ -19,7 +19,7 @@ export function About(){
               <div  className="row about_p ">
                 <div className=" col-md-6 about_p ">
                     <p className="about_p fw-normal para">I am Ravi, web App developer from Ramanathapuram, India. I have good experience in App  building and customization.</p>
-                    <button type="button" class="btn btn-danger"><a href="https://drive.google.com/file/d/1Yxmj9t-hyiccD8OEQ_McU_rILKcnZF48/view?pli=1" target="blank" className="bg-danger fw-bold ">Download CV</a></button>
+                    <button type="button" class="btn btn-danger"><a href="https://drive.google.com/file/d/1LveAfvNWcoQNDXvt_ia17oPDJwNRS4oK/view?usp=sharing" target="blank" className="bg-danger fw-bold ">Download CV</a></button>
                 </div>
                 <div className=" col-md-6 about_p fw-bold ">
                     <p className="about_p bars_right">Development</p>
