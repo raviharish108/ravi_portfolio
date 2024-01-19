@@ -14,7 +14,7 @@ export function Serv(){
                <div className="col-md-6 col-xl-4 "><Cardd3/></div>
       </div>
       </div>
-      <p>Looking for a custom job?<span><a href="https://drive.google.com/file/d/1LveAfvNWcoQNDXvt_ia17oPDJwNRS4oK/view?usp=sharing" target="blank">Hire Me</a></span> to contact me! 👋</p>
+      <p>Looking for a custom job?<span><a href="https://drive.google.com/file/d/126-Jxuu_rZ7olzgmbIrpmIClNCeQSV2F/view" target="blank">Hire Me</a></span> to contact me! 👋</p>
       </div>
     )
 }
